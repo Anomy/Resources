@@ -54,6 +54,8 @@
 			<key>song_list</key>
 			<array>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -69,6 +71,8 @@
 					<string>CCSRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -84,6 +88,8 @@
 					<string>CerradoRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -99,6 +105,8 @@
 					<string>GilgameshRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -114,6 +122,8 @@
 					<string>SecretionRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -129,6 +139,8 @@
 					<string>NarcissusRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -144,6 +156,8 @@
 					<string>ControlRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -159,6 +173,8 @@
 					<string>InJuneRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -174,6 +190,8 @@
 					<string>SodRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -189,6 +207,8 @@
 					<string>MarianaRemix</string>
 				</dict>
 				<dict>
+					<key>is_local</key>
+					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
