@@ -21,7 +21,7 @@
 			<array>
 				<dict>
 					<key>is_local</key>
-					<false/>
+					<integer>0</integer>
 					<key>artist</key>
 					<string>Allison Allain</string>
 					<key>genres</key>
@@ -55,7 +55,7 @@
 			<array>
 				<dict>
 					<key>is_local</key>
-					<true/>
+					<integer>1</integer>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -71,8 +71,6 @@
 					<string>CCSRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -80,6 +78,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
@@ -88,8 +88,6 @@
 					<string>CerradoRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -97,6 +95,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
@@ -105,8 +105,6 @@
 					<string>GilgameshRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -114,6 +112,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
@@ -122,8 +122,6 @@
 					<string>SecretionRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -131,6 +129,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
@@ -139,8 +139,6 @@
 					<string>NarcissusRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -148,6 +146,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
@@ -156,8 +156,6 @@
 					<string>ControlRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -165,6 +163,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
@@ -173,8 +173,6 @@
 					<string>InJuneRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -182,6 +180,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
@@ -190,10 +190,10 @@
 					<string>SodRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>genres</key>
 					<array>
 						<string>Math Rock</string>
@@ -207,8 +207,6 @@
 					<string>MarianaRemix</string>
 				</dict>
 				<dict>
-					<key>is_local</key>
-					<true/>
 					<key>artist</key>
 					<string>Choke the Word</string>
 					<key>genres</key>
@@ -216,6 +214,8 @@
 						<string>Math Rock</string>
 						<string>Goth Rock</string>
 					</array>
+					<key>is_local</key>
+					<integer>1</integer>
 					<key>song_image_url</key>
 					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
 					<key>title</key>
