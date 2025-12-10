@@ -16,11 +16,11 @@
 			<key>release_date</key>
 			<date>2025-12-10T15:09:14Z</date>
 			<key>title</key>
-			<string>Ode to Zorhan Mamdani</string>
+			<string>Suno: Ode to Zorhan Mamdani</string>
 			<key>song_list</key>
 			<array>
 				<dict>
-					<key>isLocal</key>
+					<key>is_local</key>
 					<false/>
 					<key>artist</key>
 					<string>Allison Allain</string>
