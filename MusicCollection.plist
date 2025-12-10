@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>albums</key>
+	<array>
+		<dict>
+			<key>album_art_url</key>
+			<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+			<key>artist</key>
+			<string>Choke the Word</string>
+			<key>genres</key>
+			<array>
+				<string>Math Rock</string>
+				<string>Goth Rock</string>
+			</array>
+			<key>release_date</key>
+			<date>2011-03-25T15:09:14Z</date>
+			<key>title</key>
+			<string>Enjoy the Parade</string>
+			<key>song_list_testing</key>
+			<array>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>CCS</string>
+					<key>url</key>
+					<string>CCSRemix</string>
+				</dict>
+			</array>
+			<key>song_list</key>
+			<array>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>CCS</string>
+					<key>url</key>
+					<string>CCSRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Cerrado Remix</string>
+					<key>url</key>
+					<string>CerradoRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Gilgamesh Remix</string>
+					<key>url</key>
+					<string>GilgameshRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Secretion Remix</string>
+					<key>url</key>
+					<string>SecretionRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Narcissus Remix</string>
+					<key>url</key>
+					<string>NarcissusRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Control Remix</string>
+					<key>url</key>
+					<string>ControlRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>In June Remix</string>
+					<key>url</key>
+					<string>InJuneRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Sod Remix</string>
+					<key>url</key>
+					<string>SodRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Mariana Remix</string>
+					<key>url</key>
+					<string>MarianaRemix</string>
+				</dict>
+				<dict>
+					<key>artist</key>
+					<string>Choke the Word</string>
+					<key>genres</key>
+					<array>
+						<string>Math Rock</string>
+						<string>Goth Rock</string>
+					</array>
+					<key>song_image_url</key>
+					<string>https://f4.bcbits.com/img/a3969546907_10.jpg</string>
+					<key>title</key>
+					<string>Horsemen Remix</string>
+					<key>url</key>
+					<string>HorsemenRemix</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
