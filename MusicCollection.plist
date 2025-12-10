@@ -20,6 +20,8 @@
 			<key>song_list</key>
 			<array>
 				<dict>
+					<key>isLocal</key>
+					<false/>
 					<key>artist</key>
 					<string>Allison Allain</string>
 					<key>genres</key>
@@ -31,7 +33,7 @@
 					<key>title</key>
 					<string>Zorhan Mamdani</string>
 					<key>url</key>
-					<string>ZorhanMamdani</string>
+					<string>https://github.com/Anomy/Resources/blob/main/ZorhanMamdani.</string>
 				</dict>
 			</array>
 		</dict>
