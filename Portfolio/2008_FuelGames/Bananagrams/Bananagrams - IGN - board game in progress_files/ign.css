@@ -1,0 +1,195 @@
+/* Pogo */
+div[data-pogo] iframe { margin-left: auto; margin-right: auto; color-scheme: light; }
+div[data-pogo="main"], div[data-pogo="incontent"], div[data-pogo="sidebar"]  { min-height: 250px; text-align: center; }
+div[data-pogo="top"] { min-height: 50px; }
+div[data-mix-name="bigAd"] { min-height: 250px; }
+article[data-autopogo] { position: relative; }
+iframe[data-testid="amzn-nca-ad"] { position: absolute; top: 0; left: 0; }
+ins.zmgad-full-width { display: block; text-decoration: none; }
+div.bobble-0, div.bobble-0.5, div.bobble-1 { min-height: 250px; }
+body.pgCollapse div[data-pogo], body.pgCollapse div.bobble-0, body.pgCollapse div.bobble-0.5, body.pgCollapse div.bobble-1 { min-height: 0 !important; }
+body.pgDsbld div[data-pogo] { display: none; }
+/*main > .adunit-wrapper > .bobble-0.pg-front_page { min-height: 600px; }*/
+main > .adunit-wrapper:first-child > div.pg-front_page.bobble-0 { display: none; }
+div.adunit-wrapper:has(div.pgI), div.bobble:has(div.pgI) { overflow: visible; }
+main div.fixed-on-mobile.bobble-0 { display: block; }
+div.adunit-wrapper > div.mobileOnly, div.adunit-wrapper > div[data-mobile] { display: flex; }
+div.adunit-wrapper > div.deskOnly, div.adunit-wrapper > div[data-mix="leaderboardOnly"], div.adunit-wrapper > div[data-mix="secondaryLeaderboard"] { display: none; }
+div.pogo-slot { display: flex; }
+div.pogo-slot[data-pogo-hide="1"] { display: none; }
+div.bobble-0.pg-wiki div[data-mix-name="leaderboardOnly"] { display: none; }
+section.right-rail .pogocnt.pg-front_page, section.right-rail .pogocnt.pg-index { display: none; }
+#pogo-quickslider { position: absolute; z-index: 9999999999; top: 60px; }
+div.bobble-1.pogocnt.pg-object { display: none; }
+.video-page div.bobble-0.pogocnt.pg-video { display: none; }
+
+.desktop-wiki-group .right-rail { min-width: 300px; padding-top: 24px; }
+.desktop-wiki-group .content { position: relative; }
+div.pgSticky { position: sticky; top: 120px; display: block; min-width: 300px; }
+div.pgStickyFooter { position: fixed; bottom: 0px; left: 0px; width: 100%; height: 50px; max-height: 100px; }
+
+section.wiki-bobble.hasPgOutstream { display: block !important; margin: 0 !important; background-color: transparent !important; width: 100% !important; left: unset !important; right: unset !important; }
+section.wiki-bobble.hasPgOutstream, section.wiki-bobble.sovrncommerce { display: block !important; }
+section.wiki-bobble.hasPgOutstream .bobble-label, section.wiki-bobble.sovrncommerce div.bobble-label { display: none; }
+.sovrn-commerce-ai-shopping-gallery { margin: 30px auto; }
+.sovrn-commerce-ai-shopping-gallery:before {
+    color: #a5a5a5 !important;
+    content: "Sponsored Content";
+    display: block;
+    text-decoration: none;
+    font-family: var(--fontFamilyVar);
+    font-size: .75rem !important;
+    letter-spacing: .025em;
+    margin-bottom: 10px;
+    text-align: center
+}
+
+div.pgOutstream { max-width: 814px; box-shadow: var(--theme-elements-boxShadow-card); border-radius: 16px; overflow: hidden; background-color: var(--theme-elements-background-surfaceColor); aspect-ratio: 16/9; }
+.article-content div.pgOutstream { margin-top: 1.5rem; }
+div.wiki-page div.pgOutstream { margin: 0 auto 2rem auto; }
+div.page-content > div.pgOutstream { max-width: 633px; }
+section.article-page div.pgOutstream { margin: 2rem auto; }
+div.pgOutstream div.pgOts .pgVMuteBtn { bottom: 5px; left: 8px; right: unset; }
+div.pgOutstream div.pgOts .VProgCnt { height: 4px !important; }
+div.pgOutstream div.pgOts .pgVPCMD { left: 5px; }
+div.pgOutstream .VPTitle { font-weight: bold; }
+div.pgOtsFxd .VPTitle { font-weight: normal; }
+div.pgOtsFxd { display: block; position: absolute; bottom: 0px; right: unset; left: 0px; width: 100%; max-width: 300px; height: auto; border-radius: 0; aspect-ratio: 16/9; z-index: 101; overflow: visible; }
+div.pgOtsFxd div.pgOts, div.pgOtsFxd div.pgOts .VP { border-radius: 0 !important; }
+body.noPgOts div[data-pogo="outstream"].pgOtsFxd, body.pgDsbld div[data-pogo="outstream"].pgOtsFxd  { display: none !important; }
+
+div.pgOtsScrl div.pgOts { display: block; position: fixed; bottom: 10px; right: 10px; left: auto; width: 300px; height: 168px; box-shadow: var(--theme-elements-boxShadow-card); z-index: 12345678; }
+div.pgOtsScrl .pgCloseBtn { right: 0px; }
+div.pgOtsScrl .VPV, div.pgOtsScrl .VP { border-radius: 8px; overflow: hidden; }
+
+body.hasPogoQS.pgQSFxd div.pgOtsScrl div.pgOts, body.hasPgFtr div.pgOtsScrl div.pgOts { position: relative !important; margin: 0; overflow: visible; }
+
+div[data-pogo="incontent"], div[data-pogo="autopogo"] {
+  display: flex; margin: 30px auto; justify-items: center; align-items: center; justify-content: center; min-height: 250px;
+}
+
+.wikiAutoPogo { position: relative; }
+.wikiAutoPogo section.wiki-bobble { position: relative; background-color: #eee; min-height: 296px;  margin: var(--standardSpacer) 0; padding: 16px 0; text-align: center; display: grid; justify-content: center; }
+.wikiAutoPogo section.wiki-bobble div[data-pogo] { margin: 0 auto; min-height: 250px; width: 100%; display: block; }
+.wikiAutoPogo section.wiki-bobble iframe { max-width: initial; }
+.wikiAutoPogo div.bobble-label { font-size: 10px; text-transform: uppercase; text-align: center; margin-bottom: 2px; color: var(--theme-elements-text-muted); }
+.wikiAutoPogo img.image.large.loading, .wikiAutoPogo .wiki-image:has(img.image.large.loading) { width: 100%; aspect-ratio: 16/9; }
+body.pgDsbld section.wiki-bobble, body.pgDsbld .zmgad-full-width { display: none; }
+
+#pogogenie.pgCSslot { margin-bottom: 1rem; }
+#pogogenieup.pgCSslot { margin-bottom: 3rem; }
+
+div[data-mix-name="threeBy"], div[data-mix-name="fourBy"] { display: none !important; }
+
+#pogocommentshdr, #pogocommentsftr { display: flex; justify-content: center; align-items: center; margin: 1rem 0; min-height: 250px; }
+
+div#ps_init_holder, iframe#psFrame { display: none !important; }
+
+
+@media (min-width: 1740px) {
+   main .page-content { padding: 0 var(--extraRoomySpacer); }
+}
+
+@media (min-width: 641px) and (max-width: 860px) {
+ div.homepage-header > div.adunit-wrapper { order: 2; }
+}
+
+
+@media (min-width: 641px) {
+  div.pgOtsFxd { display: none; }
+  #pogo-quickslider { top: unset; }
+
+}
+
+@media (max-width: 860px) {
+  div[data-mix-name="articleSticky"] { min-height: 50px; }
+  div.pgOtsFxd .pgCloseBtn { right: 0px; }
+
+  .wiki-page-container div.pgOtsScrl div.pgOts, .article-content div.pgOtsScrl div.pgOts, div.pgOtsScrl.hasAdhesion div.pgOts { bottom: 60px; }
+  div.fixed-on-mobile, div.fixed-on-mobile div[data-pogo="sticky"] { max-height: 100px !important; overflow: hidden !important; display: block; }
+  div.pg-faceoffs.fixed-on-mobile { display: none !important; }
+
+  .wiki-bobble:has(.pgBB), .zmgad-full-width:has(.pgBB), div.page-content div.pgCSslot { display: block; width: 100vw !important; margin-left: -24px !important; }
+  .wikiAutoPogo section.wiki-bobble:has(.pgCSslot), .zmgad-full-width:has(.pgCSslot) { display: block; background-color: transparent; }
+}
+
+@media (min-width: 860px) {
+  div.bobble-0.pg-wiki #main-1 { display: flex; }
+  div.adunit-wrapper > div.deskOnly, div.adunit-wrapper > div[data-mix="leaderboardOnly"], div.adunit-wrapper > div[data-mix="secondaryLeaderboard"] { display: flex; }
+  div.adunit-wrapper > div.mobileOnly { display: none; }
+  main > .adunit-wrapper > .bobble-0.pg-front_page { min-height: 250px; }
+  main > .adunit-wrapper:first-child > div.pg-front_page.bobble-0 { display: flex; }
+  div.bobble.fixed-on-mobile { display: none; }
+  div[data-pogo="main"], div[data-pogo="incontent"], div[data-pogo="top"], div[data-pogo="sidebar"]  { min-height: 250px; overflow-x: visible; }
+  .page-content.page-content-slim div.side-by-side .article-content > .article-section { overflow: visible; }
+  div[data-mix-name="tallAd"] { min-height: 600px; }
+  [data-autopogo] blockquote.twitter-tweet { min-height: 550px; }
+  main > .adunit-wrapper:first-child > div.fixed-on-mobile.bobble-0 { display: block; }
+  div.bobble-0.pg-wiki div[data-mix-name="leaderboardOnly"] { display: block; }
+  section.right-rail .pogocnt.pg-front_page, section.right-rail .pogocnt.pg-index { display: block; }
+  .content-wrapper > .adunit-wrapper:last-child .bobble-1.pg-wiki div[data-mix-name="mrecAd"] { display: none; }
+
+  div.pg-wiki div[data-pogo="main"], div.pg-wiki div[data-pogo="sidebar"][data-mix-name="mediumAd"] { max-height: 250px; }
+  body.pgCSvw .right-rail .sticky-wrapper .bobble-0.pogocnt { visibility: hidden; }
+
+}
+
+@media (min-width: 1200px) {
+  .page-sidebar-container div.adunit-wrapper, .page-sidebar-container div.pogocnt { }
+  .page-sidebar-container #main-content > .content-wrapper > div.adunit-wrapper:first-child { min-width:970px; }
+  .page-sidebar-container.sidebar-collapsed #main-content > .content-wrapper > div.adunit-wrapper:first-child { left: auto; }
+  .pg-wiki div[data-pogo="top"] { min-width: 970px; }
+
+  .page-content.page-content-slim div.side-by-side .article-content .article-section .article-leaderboard-adunit { width: 1100px; max-width: 1100px; left: unset; right: unset; margin-left: -140px; margin-right: auto; }
+
+  div.pgOtsFxd { display: block; position: absolute; bottom: 5px; right: unset; left: var(--sidebarWidthCollapsed); margin-left: 5px; max-width: 80%;  width: 400px; height: 224px; border-radius: 2px; z-index: 1000001; aspect-ratio: unset; }
+  div.map-container div.pgOtsFxd { left: 0px; }
+
+  div.pgOtsFxd.pgOtsScrl div.pgOts { position: fixed; bottom: 1rem; right: 1rem; left: unset; }
+  div.pgOtsScrl .pgCloseBtn { right: -10px; }
+
+}
+@media (min-width: 1281px) {
+  div.pgOtsFxd { left: var(--sidebarWidth); }
+  .wikiAutoPogo section.wiki-bobble {  }
+  body:has(.wiki-page-container) { overflow-x: hidden; }
+  .wikiAutoPogo section.wiki-bobble {
+    background-color: var(--theme-elements-background-altColor);
+    color: var(--theme-elements-text-default);
+    margin: 48px 0px;
+    padding: 16px 0;
+    width: calc(100vw - var(--sidebarWidth));
+    left: -64px;
+    position: relative;
+    background-color: var(--theme-elements-background-altColor);
+    color: var(--theme-elements-text-default);
+  }
+
+}
+
+@media (min-width: 1366px) {
+  div.pgOtsFxd { left: var(--sidebarWidth); }
+}
+@media (min-width: 1441px) {
+  .wikiAutoPogo section.wiki-bobble { left: -120px; }
+}
+
+@media (min-width: 1600px) {
+  .wikiAutoPogo section.wiki-bobble { left: -120px; }
+  div.pgOtsFxd { width: 480px; height: 272px; }
+  div.pgOtsScrl div.pgOts { width: 400px; height: 224px; }
+}
+@media (min-width: 1700px) {
+  .wikiAutoPogo section.wiki-bobble { left: calc((100vw - var(--sidebarWidth)) / -10 ); }
+  div.pgOtsFxd { width: 480px; height: 272px; }
+  div.pgOtsScrl div.pgOts { width: 400px; height: 224px; }
+}
+@media (min-width: 1740px) {
+  div[data-cy="article-content"] { min-width: 970px; }
+}
+
+
+@media (min-width: 1900px) {
+  .wikiAutoPogo section.wiki-bobble { width: calc(100vw - var(--sidebarWidth)); left: unset; margin-left: unset; left: calc(((100vw - (1200px + var(--sidebarWidth))) / -1) / 2) }
+
+}
